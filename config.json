@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorralidate",
+        "uuid": 22068380,
+        "checksum": "i3mkvd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
